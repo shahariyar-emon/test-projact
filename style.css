@@ -1,0 +1,123 @@
+body{
+    font-family: 'Roboto Condensed', sans-serif;
+    margin: 0;
+}
+section{
+    padding : 6%;
+    padding-bottom: 30%;
+    
+}
+h1{
+    font-size: 45px;
+}
+.name{
+    color: rgb(255, 0, 85);
+}
+h2{
+    font-size: 20px;
+}
+h3{
+    font-size: 20px;
+}
+p{
+    color: dimgray;
+}
+.half-head{
+    float: left;
+    width: 40%;
+}
+.profile-img{
+    width: 400px;
+    height: 450px;
+    margin-left: 200px;
+}
+.contact-button{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    background-color: orange;
+    padding: 10px 25px;
+    border-radius: 10px;
+    font-weight: 600;
+}
+.top{
+    background-image: url("images/header-bg.png");
+    background-repeat: no-repeat;
+    padding-bottom: 500px;
+}
+.bio{
+    padding-bottom: 500px;
+}
+.bio-img{
+    width: 380px;
+    height: 480px;
+    padding-top: 20px;
+}
+.cv-btn{
+    text-decoration: none;
+    color: white;
+    background: linear-gradient(#FF1872,#FF5096);
+    padding: 10px 15px;
+    border-radius: 10px;
+    font-weight: 600;
+}
+.my-bio{
+    padding-bottom: 15px;
+}
+.bio-text{
+    padding-top: 35px;
+    padding-left: 150px ;
+}
+.work-zone{
+    padding-top: 200px;
+    padding-bottom: 290px;
+}
+.works img{
+    width: 25%;
+    float: left;
+    padding-left: 5%;
+    
+}
+.work-text {
+    font-size: 45px;
+    text-align: center;
+}
+.client-talk{
+    padding-top: 40px;
+    font-size: 45px;
+    text-align: center;
+}
+.ceo{
+    text-align: center;
+}
+.company{
+    text-align: center;
+}
+.quot{
+    padding-top: 20px;
+    color: black;
+    text-align: center;
+    
+}
+.client{
+    padding-bottom: 0px;
+}
+.contact{
+    text-align: center;
+    font-weight: 100;
+}
+.contact-info{
+    padding-bottom: 30px;
+}
+.mail{
+    font-size: 30px;
+    text-align: center;
+    font-weight: 600;
+}
+ 
+footer{
+    color: dimgray;
+    padding-top: 50px;
+    font-size: 15px;
+    text-align: center;
+    padding-bottom: 12px;
+}
